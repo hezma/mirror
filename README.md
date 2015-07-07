@@ -20,9 +20,9 @@
 ## 免翻墙镜像:
 
 <ul>
-<li><a href="https://dq53zdowqr8x.cloudfront.net">https://dq53zdowqr8x.cloudfront.net</a></li>
-    <li><a href="https://d3loiuqgiahwpf.cloudfront.net">https://d3loiuqgiahwpf.cloudfront.net</a></li>
+<li><a href="https://d3rxq8dn5bz85e.cloudfront.net">https://d3rxq8dn5bz85e.cloudfront.net</a></li>
     <li><a href="https://d3epf8fkvp6410.cloudfront.net">https://d3epf8fkvp6410.cloudfront.net</a></li>
-    <li><a href="https://d3rxq8dn5bz85e.cloudfront.net">https://d3rxq8dn5bz85e.cloudfront.net</a></li>
-    <li><a href="https://d3nto8y6ppdj7s.cloudfront.net">https://d3nto8y6ppdj7s.cloudfront.net</a></li>
+    <li><a href="https://d2ln9t25tarlbx.cloudfront.net">https://d2ln9t25tarlbx.cloudfront.net</a></li>
+    <li><a href="https://d2k9x86zd35nwq.cloudfront.net">https://d2k9x86zd35nwq.cloudfront.net</a></li>
+    <li><a href="https://d4we3s4p5zrwl.cloudfront.net">https://d4we3s4p5zrwl.cloudfront.net</a></li>
     </ul>
