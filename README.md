@@ -7,7 +7,7 @@
                 <td>自由浏览</td>
         
         
-        <td><a href="https://d4we3s4p5zrwl.cloudfront.net" target="lantern-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://d4we3s4p5zrwl.cloudfront.net"
+        <td><a href="https://d1butvecxdmqsc.cloudfront.net" target="lantern-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://d1butvecxdmqsc.cloudfront.net"
         target="lantern-mirror">免翻墙网页版</a></td> -->
     </tr>
     
@@ -20,5 +20,6 @@
 ## 免翻墙镜像:
 
 <ul>
-<li><a href="https://d4we3s4p5zrwl.cloudfront.net">https://d4we3s4p5zrwl.cloudfront.net</a></li>
+<li><a href="https://d3ifzg2ejh3z3n.cloudfront.net">https://d3ifzg2ejh3z3n.cloudfront.net</a></li>
+    <li><a href="https://d1butvecxdmqsc.cloudfront.net">https://d1butvecxdmqsc.cloudfront.net</a></li>
     </ul>
