@@ -7,7 +7,7 @@
                 <td>自由浏览</td>
         
         
-        <td><a href="https://d70p85296o3mg.cloudfront.net" target="lantern-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://d70p85296o3mg.cloudfront.net"
+        <td><a href="https://d266g1z1hs8otm.cloudfront.net" target="lantern-mirror">免翻墙网页版</a></td>        <!-- <td><a href="https://d266g1z1hs8otm.cloudfront.net"
         target="lantern-mirror">免翻墙网页版</a></td> -->
     </tr>
     
