@@ -7,7 +7,7 @@
                 <td>自由浏览</td>
         
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://    <span class="cf-footer-separator">&bull;</span>"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://"
         target="lantern-mirror">免翻墙网页版</a></td> -->
     </tr>
     
@@ -16,5 +16,5 @@
         src="../../raw/master/x/fb.qr.png" /></a></td>
 
         
-        <td><a href="https://    <span class="cf-footer-separator">&bull;</span>">https://    <span class="cf-footer-separator">&bull;</span></a><br/><a href="https://">https://</a><br/><a href="https://  </div>">https://  </div></a><br/><a href="https://  </div>">https://  </div></a><br/><a href="https://            <div class="cf-columns two">">https://            <div class="cf-columns two"></a><br/></td>    </tr>
+        <td><a href="https://">https://</a><br/><a href="https://</div>">https://</div></a><br/><a href="      <p><span data-translate="522_owner_desc">Contact your hosting provider letting them know your web server is not completing requests. An Error 522 means that the request was able to connect to your web server, but that the request didn't finish. The most likely cause is that something on your server is hogging resources.</span> <a href="https://support.cloudflare.com/hc/en-us/articles/200171906-Error-522" data-translate="addtl_troubleshooting">Additional troubleshooting information here.</a></p>">      <p><span data-translate="522_owner_desc">Contact your hosting provider letting them know your web server is not completing requests. An Error 522 means that the request was able to connect to your web server, but that the request didn't finish. The most likely cause is that something on your server is hogging resources.</span> <a href="https://support.cloudflare.com/hc/en-us/articles/200171906-Error-522" data-translate="addtl_troubleshooting">Additional troubleshooting information here.</a></p></a><br/><a href="https://        </div><!-- /.status-display -->">https://        </div><!-- /.status-display --></a><br/><a href="https://            </div>">https://            </div></a><br/></td>    </tr>
 </table>
