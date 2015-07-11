@@ -7,7 +7,7 @@
                 <td>自由浏览</td>
         
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->"
         target="lantern-mirror">免翻墙网页版</a></td> -->
     </tr>
     
@@ -16,5 +16,5 @@
         src="../../raw/master/x/fb.qr.png" /></a></td>
 
         
-        <td><a href="<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /></a><br/><a href="https://">https://</a><br/><a href="https://    <i class="cf-icon cf-icon-server"></i>">https://    <i class="cf-icon cf-icon-server"></i></a><br/><a href="https://</div><!-- /.error-footer -->">https://</div><!-- /.error-footer --></a><br/><a href="https://  <span class="cf-status-label" data-translate="server_status_label">Error</span>">https://  <span class="cf-status-label" data-translate="server_status_label">Error</span></a><br/></td>    </tr>
+        <td><a href="https://<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->">https://<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]--></a><br/><a href="https://">https://</a><br/><a href="https://</div><!-- /.error-footer -->">https://</div><!-- /.error-footer --></a><br/><a href="https://">https://</a><br/><a href="https://                <div class="cf-columns cols-3">">https://                <div class="cf-columns cols-3"></a><br/></td>    </tr>
 </table>
