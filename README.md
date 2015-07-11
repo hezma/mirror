@@ -7,7 +7,7 @@
                 <td>自由浏览</td>
         
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://<body>"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" type="text/css" media="screen,projection" />"
         target="lantern-mirror">免翻墙网页版</a></td> -->
     </tr>
     
@@ -16,5 +16,5 @@
         src="../../raw/master/x/fb.qr.png" /></a></td>
 
         
-        <td><a href="https://<body>">https://<body></a><br/><a href="https://<script type="text/javascript" src="/cdn-cgi/scripts/cf.common.js"></script>">https://<script type="text/javascript" src="/cdn-cgi/scripts/cf.common.js"></script></a><br/><a href="https://  <div class="cf-icon-error-container">">https://  <div class="cf-icon-error-container"></a><br/><a href="https://              <span class="cf-error-type" data-translate="error">Error</span>">https://              <span class="cf-error-type" data-translate="error">Error</span></a><br/><a href="https://<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->">https://<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]--></a><br/></td>    </tr>
+        <td><a href="https://<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" type="text/css" media="screen,projection" />">https://<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" type="text/css" media="screen,projection" /></a><br/><a href="https://                </div>">https://                </div></a><br/><a href="https://    <span class="cf-footer-separator">&bull;</span>">https://    <span class="cf-footer-separator">&bull;</span></a><br/><a href="https://  </div>">https://  </div></a><br/><a href="https://">https://</a><br/></td>    </tr>
 </table>
