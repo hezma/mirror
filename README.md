@@ -7,7 +7,7 @@
                 <td>自由浏览</td>
         
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://      <p data-translate="try_again_in_a_few">Please try again in a few minutes.</p>"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://    <i class="cf-icon-status cf-icon-error"></i>"
         target="lantern-mirror">免翻墙网页版</a></td> -->
     </tr>
     
@@ -16,5 +16,5 @@
         src="../../raw/master/x/fb.qr.png" /></a></td>
 
         
-        <td><a href="https://      <p data-translate="try_again_in_a_few">Please try again in a few minutes.</p>">https://      <p data-translate="try_again_in_a_few">Please try again in a few minutes.</p></a><br/><a href="https://">https://</a><br/><a href="https://">https://</a><br/><a href="https://    <i class="cf-icon-status cf-icon-ok"></i>">https://    <i class="cf-icon-status cf-icon-ok"></i></a><br/><a href="https://        <div class="cf-wrapper cf-error-overview">">https://        <div class="cf-wrapper cf-error-overview"></a><br/></td>    </tr>
+        <td><a href="https://    <i class="cf-icon-status cf-icon-error"></i>">https://    <i class="cf-icon-status cf-icon-error"></i></a><br/><a href="https://  </div>">https://  </div></a><br/><a href="https://<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->">https://<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]--></a><br/><a href="https://              <span class="cf-error-code">522</span>">https://              <span class="cf-error-code">522</span></a><br/><a href="https://    <i class="cf-icon-status cf-icon-ok"></i>">https://    <i class="cf-icon-status cf-icon-ok"></i></a><br/></td>    </tr>
 </table>
