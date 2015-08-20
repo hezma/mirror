@@ -7,7 +7,7 @@
                 <td>自由浏览</td>
         
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://  </div>"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://"
         target="lantern-mirror">免翻墙网页版</a></td> -->
     </tr>
     
@@ -16,5 +16,5 @@
         src="../../raw/master/x/fb.qr.png" /></a></td>
 
         
-        <td><a href="https://  </div>">https://  </div></a><br/><a href="https://                    <h2 data-translate="what_happened">What happened?</h2>">https://                    <h2 data-translate="what_happened">What happened?</h2></a><br/><a href="https://      <h5 data-translate="if_website_owner">If you're the owner of this website:</h5>">https://      <h5 data-translate="if_website_owner">If you're the owner of this website:</h5></a><br/><a href="https://                </div>">https://                </div></a><br/><a href="https://<!--[if gte IE 10]><!--><script type="text/javascript" src="/cdn-cgi/scripts/zepto.min.js"></script><!--<![endif]-->">https://<!--[if gte IE 10]><!--><script type="text/javascript" src="/cdn-cgi/scripts/zepto.min.js"></script><!--<![endif]--></a><br/></td>    </tr>
+        <td><a href="https://">https://</a><br/><a href="<meta http-equiv="set-cookie" content="cf_ob_info=522:218f52d5d6372018:DFW; expires=Thu, 20-Aug-15 16:03:22 GMT; path=/">"><meta http-equiv="set-cookie" content="cf_ob_info=522:218f52d5d6372018:DFW; expires=Thu, 20-Aug-15 16:03:22 GMT; path=/"></a><br/><a href="https://      <p data-translate="try_again_in_a_few">Please try again in a few minutes.</p>">https://      <p data-translate="try_again_in_a_few">Please try again in a few minutes.</p></a><br/><a href="https://                </div>">https://                </div></a><br/><a href="https://">https://</a><br/></td>    </tr>
 </table>
