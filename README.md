@@ -7,7 +7,7 @@
                 <td>自由浏览</td>
         
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://            <div class="cf-columns two">"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://  <div class="cf-icon-error-container">"
         target="lantern-mirror">免翻墙网页版</a></td> -->
     </tr>
     
@@ -16,5 +16,5 @@
         src="../../raw/master/x/fb.qr.png" /></a></td>
 
         
-        <td><a href="https://            <div class="cf-columns two">">https://            <div class="cf-columns two"></a><br/><a href="https://">https://</a><br/><a href="https://            </h1>">https://            </h1></a><br/><a href="https://<!DOCTYPE html>">https://<!DOCTYPE html></a><br/><a href="      <p><span data-translate="522_owner_desc">Contact your hosting provider letting them know your web server is not completing requests. An Error 522 means that the request was able to connect to your web server, but that the request didn't finish. The most likely cause is that something on your server is hogging resources.</span> <a href="https://support.cloudflare.com/hc/en-us/articles/200171906-Error-522" data-translate="addtl_troubleshooting">Additional troubleshooting information here.</a></p>">      <p><span data-translate="522_owner_desc">Contact your hosting provider letting them know your web server is not completing requests. An Error 522 means that the request was able to connect to your web server, but that the request didn't finish. The most likely cause is that something on your server is hogging resources.</span> <a href="https://support.cloudflare.com/hc/en-us/articles/200171906-Error-522" data-translate="addtl_troubleshooting">Additional troubleshooting information here.</a></p></a><br/></td>    </tr>
+        <td><a href="https://  <div class="cf-icon-error-container">">https://  <div class="cf-icon-error-container"></a><br/><a href="https://    <span class="cf-footer-item"><span data-translate="your_ip">Your IP</span>: 2001:4800:7817:101:be76:4eff:fe05:6fee</span>">https://    <span class="cf-footer-item"><span data-translate="your_ip">Your IP</span>: 2001:4800:7817:101:be76:4eff:fe05:6fee</span></a><br/><a href="https://<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" type="text/css" media="screen,projection" />">https://<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" type="text/css" media="screen,projection" /></a><br/><a href="https://<style type="text/css">body{margin:0;padding:0}</style>">https://<style type="text/css">body{margin:0;padding:0}</style></a><br/><a href="https://  <span class="cf-status-desc" data-translate="cloud_desc">Dallas</span>">https://  <span class="cf-status-desc" data-translate="cloud_desc">Dallas</span></a><br/></td>    </tr>
 </table>
