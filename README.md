@@ -7,7 +7,7 @@
                 <td>自由浏览</td>
         
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://    <i class="cf-icon-status cf-icon-error"></i>"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://"
         target="lantern-mirror">免翻墙网页版</a></td> -->
     </tr>
     
@@ -16,5 +16,5 @@
         src="../../raw/master/x/fb.qr.png" /></a></td>
 
         
-        <td><a href="https://    <i class="cf-icon-status cf-icon-error"></i>">https://    <i class="cf-icon-status cf-icon-error"></i></a><br/><a href="https://<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->">https://<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]--></a><br/><a href="https://                          <h5 data-translate="if_website_visitor">If you're a visitor of this website:</h5>">https://                          <h5 data-translate="if_website_visitor">If you're a visitor of this website:</h5></a><br/><a href="https://  </div>">https://  </div></a><br/><a href="https://<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->">https://<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]--></a><br/></td>    </tr>
+        <td><a href="https://">https://</a><br/><a href="https://                </div>">https://                </div></a><br/><a href="https://<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1" />">https://<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1" /></a><br/><a href="https://  </div>">https://  </div></a><br/><a href="https://        <div class="cf-error-footer cf-wrapper">">https://        <div class="cf-error-footer cf-wrapper"></a><br/></td>    </tr>
 </table>
