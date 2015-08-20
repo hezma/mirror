@@ -7,7 +7,7 @@
                 <td>自由浏览</td>
         
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://                    <h2 data-translate="what_happened">What happened?</h2>"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://  </div>"
         target="lantern-mirror">免翻墙网页版</a></td> -->
     </tr>
     
@@ -16,5 +16,5 @@
         src="../../raw/master/x/fb.qr.png" /></a></td>
 
         
-        <td><a href="https://                    <h2 data-translate="what_happened">What happened?</h2>">https://                    <h2 data-translate="what_happened">What happened?</h2></a><br/><a href="https://                          <h5 data-translate="if_website_visitor">If you're a visitor of this website:</h5>">https://                          <h5 data-translate="if_website_visitor">If you're a visitor of this website:</h5></a><br/><a href="https://  </div>">https://  </div></a><br/><a href="https://<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->">https://<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]--></a><br/><a href="https://    <i class="cf-icon cf-icon-cloud"></i>">https://    <i class="cf-icon cf-icon-cloud"></i></a><br/></td>    </tr>
+        <td><a href="https://  </div>">https://  </div></a><br/><a href="https://  <span class="cf-status-label" data-translate="cloud_status_label">Working</span>">https://  <span class="cf-status-label" data-translate="cloud_status_label">Working</span></a><br/><a href="https://  <span class="cf-status-label" data-translate="server_status_label">Error</span>">https://  <span class="cf-status-label" data-translate="server_status_label">Error</span></a><br/><a href="https://                <div class="cf-column">">https://                <div class="cf-column"></a><br/><a href="https://">https://</a><br/></td>    </tr>
 </table>
