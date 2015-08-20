@@ -7,7 +7,7 @@
                 <td>自由浏览</td>
         
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://  <h3 class="cf-status-name" data-translate="browser_label">Browser</h3>"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://"
         target="lantern-mirror">免翻墙网页版</a></td> -->
     </tr>
     
@@ -16,5 +16,5 @@
         src="../../raw/master/x/fb.qr.png" /></a></td>
 
         
-        <td><a href="https://  <h3 class="cf-status-name" data-translate="browser_label">Browser</h3>">https://  <h3 class="cf-status-name" data-translate="browser_label">Browser</h3></a><br/><a href="https://                </div>">https://                </div></a><br/><a href="https://  </div>">https://  </div></a><br/><a href="<meta http-equiv="set-cookie" content="cf_use_ob=443; expires=Thu, 20-Aug-15 16:03:22 GMT; path=/">"><meta http-equiv="set-cookie" content="cf_use_ob=443; expires=Thu, 20-Aug-15 16:03:22 GMT; path=/"></a><br/><a href="<meta http-equiv="refresh" content="0">"><meta http-equiv="refresh" content="0"></a><br/></td>    </tr>
+        <td><a href="https://">https://</a><br/><a href="https://  <h3 class="cf-status-name" data-translate="browser_label">Browser</h3>">https://  <h3 class="cf-status-name" data-translate="browser_label">Browser</h3></a><br/><a href="https://            <div class="cf-columns two">">https://            <div class="cf-columns two"></a><br/><a href="https://">https://</a><br/><a href="https://    <i class="cf-icon cf-icon-cloud"></i>">https://    <i class="cf-icon cf-icon-cloud"></i></a><br/></td>    </tr>
 </table>
