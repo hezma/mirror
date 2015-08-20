@@ -7,7 +7,7 @@
                 <td>自由浏览</td>
         
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://  </p>"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://<!DOCTYPE html>"
         target="lantern-mirror">免翻墙网页版</a></td> -->
     </tr>
     
@@ -16,5 +16,5 @@
         src="../../raw/master/x/fb.qr.png" /></a></td>
 
         
-        <td><a href="https://  </p>">https://  </p></a><br/><a href="https://            <h2 class="cf-subheadline" data-translate="error_desc">Connection timed out</h2>">https://            <h2 class="cf-subheadline" data-translate="error_desc">Connection timed out</h2></a><br/><a href="https://              <span class="cf-error-code">522</span>">https://              <span class="cf-error-code">522</span></a><br/><a href="https://  <span class="cf-status-desc" data-translate="cloud_desc">Dallas</span>">https://  <span class="cf-status-desc" data-translate="cloud_desc">Dallas</span></a><br/><a href="https://  </div>">https://  </div></a><br/></td>    </tr>
+        <td><a href="https://<!DOCTYPE html>">https://<!DOCTYPE html></a><br/><a href="https://    <span class="cf-footer-item"><span data-translate="your_ip">Your IP</span>: 2001:4800:7817:101:be76:4eff:fe05:6fee</span>">https://    <span class="cf-footer-item"><span data-translate="your_ip">Your IP</span>: 2001:4800:7817:101:be76:4eff:fe05:6fee</span></a><br/><a href="<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /></a><br/><a href="https://                </div>">https://                </div></a><br/><a href="https://  <h3 class="cf-status-name" data-translate="cloud_label">CloudFlare</h3>">https://  <h3 class="cf-status-name" data-translate="cloud_label">CloudFlare</h3></a><br/></td>    </tr>
 </table>
