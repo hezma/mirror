@@ -7,7 +7,7 @@
                 <td>自由浏览</td>
         
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://              <span class="cf-error-code">522</span>"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://  <div class="cf-icon-error-container">"
         target="lantern-mirror">免翻墙网页版</a></td> -->
     </tr>
     
@@ -16,5 +16,5 @@
         src="../../raw/master/x/fb.qr.png" /></a></td>
 
         
-        <td><a href="https://              <span class="cf-error-code">522</span>">https://              <span class="cf-error-code">522</span></a><br/><a href="https://</div>">https://</div></a><br/><a href="https://    </div><!-- /#cf-error-details -->">https://    </div><!-- /#cf-error-details --></a><br/><a href="https://      <h5 data-translate="if_website_owner">If you're the owner of this website:</h5>">https://      <h5 data-translate="if_website_owner">If you're the owner of this website:</h5></a><br/><a href="https://  <p>">https://  <p></a><br/></td>    </tr>
+        <td><a href="https://  <div class="cf-icon-error-container">">https://  <div class="cf-icon-error-container"></a><br/><a href="https://<!DOCTYPE html>">https://<!DOCTYPE html></a><br/><a href="https://">https://</a><br/><a href="https://  <p>">https://  <p></a><br/><a href="https://">https://</a><br/></td>    </tr>
 </table>
