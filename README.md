@@ -7,7 +7,7 @@
                 <td>自由浏览</td>
         
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://            </h1>"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://  <span class="cf-status-desc" data-translate="server_desc">m999.greatfire.org</span>"
         target="lantern-mirror">免翻墙网页版</a></td> -->
     </tr>
     
@@ -16,5 +16,5 @@
         src="../../raw/master/x/fb.qr.png" /></a></td>
 
         
-        <td><a href="https://            </h1>">https://            </h1></a><br/><a href="https://    <i class="cf-icon cf-icon-server"></i>">https://    <i class="cf-icon cf-icon-server"></i></a><br/><a href="https://  <h3 class="cf-status-name" data-translate="browser_label">Browser</h3>">https://  <h3 class="cf-status-name" data-translate="browser_label">Browser</h3></a><br/><a href="https://  <h3 class="cf-status-name" data-translate="server_label">Host</h3>">https://  <h3 class="cf-status-name" data-translate="server_label">Host</h3></a><br/><a href="https://<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->">https://<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]--></a><br/></td>    </tr>
+        <td><a href="https://  <span class="cf-status-desc" data-translate="server_desc">m999.greatfire.org</span>">https://  <span class="cf-status-desc" data-translate="server_desc">m999.greatfire.org</span></a><br/><a href="https://        <div class="cf-error-footer cf-wrapper">">https://        <div class="cf-error-footer cf-wrapper"></a><br/><a href="https://</div>">https://</div></a><br/><a href="https://  <h3 class="cf-status-name" data-translate="server_label">Host</h3>">https://  <h3 class="cf-status-name" data-translate="server_label">Host</h3></a><br/><a href="<meta http-equiv="refresh" content="0">"><meta http-equiv="refresh" content="0"></a><br/></td>    </tr>
 </table>
