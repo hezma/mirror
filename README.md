@@ -7,7 +7,7 @@
                 <td>自由浏览</td>
         
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://<!DOCTYPE html>"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d13pr2xjj04d90.cloudfront.net"
         target="lantern-mirror">免翻墙网页版</a></td> -->
     </tr>
     
@@ -16,5 +16,5 @@
         src="../../raw/master/x/fb.qr.png" /></a></td>
 
         
-        <td><a href="https://<!DOCTYPE html>">https://<!DOCTYPE html></a><br/><a href="https://    <span class="cf-footer-item"><span data-translate="your_ip">Your IP</span>: 2001:4800:7817:101:be76:4eff:fe05:6fee</span>">https://    <span class="cf-footer-item"><span data-translate="your_ip">Your IP</span>: 2001:4800:7817:101:be76:4eff:fe05:6fee</span></a><br/><a href="<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /></a><br/><a href="https://                </div>">https://                </div></a><br/><a href="https://  <h3 class="cf-status-name" data-translate="cloud_label">CloudFlare</h3>">https://  <h3 class="cf-status-name" data-translate="cloud_label">CloudFlare</h3></a><br/></td>    </tr>
+        <td><a href="https://d13pr2xjj04d90.cloudfront.net">https://d13pr2xjj04d90.cloudfront.net</a><br/><a href="https://d1jsis8l2w7u4.cloudfront.net">https://d1jsis8l2w7u4.cloudfront.net</a><br/><a href="https://d3nz70itdw9p79.cloudfront.net">https://d3nz70itdw9p79.cloudfront.net</a><br/><a href="https://d3ntym2i5uqzjr.cloudfront.net">https://d3ntym2i5uqzjr.cloudfront.net</a><br/><a href="https://d59fklttdm2cm.cloudfront.net">https://d59fklttdm2cm.cloudfront.net</a><br/></td>    </tr>
 </table>
