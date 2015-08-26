@@ -7,7 +7,7 @@
                 <td>自由浏览</td>
         
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->"
         target="lantern-mirror">免翻墙网页版</a></td> -->
     </tr>
     
@@ -16,5 +16,5 @@
         src="../../raw/master/x/fb.qr.png" /></a></td>
 
         
-        <td><a href="<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /></a><br/><a href="https://<div id="cf-wrapper">">https://<div id="cf-wrapper"></a><br/><a href="<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />"><meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" /></a><br/><a href="https://">https://</a><br/><a href="https://<script type="text/javascript" src="/cdn-cgi/scripts/cf.common.js"></script>">https://<script type="text/javascript" src="/cdn-cgi/scripts/cf.common.js"></script></a><br/></td>    </tr>
+        <td><a href="https://<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->">https://<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]--></a><br/><a href="https://    <span class="cf-footer-item"><span data-translate="your_ip">Your IP</span>: 2001:4800:7817:101:be76:4eff:fe05:6fee</span>">https://    <span class="cf-footer-item"><span data-translate="your_ip">Your IP</span>: 2001:4800:7817:101:be76:4eff:fe05:6fee</span></a><br/><a href="https://    <i class="cf-icon cf-icon-browser"></i>">https://    <i class="cf-icon cf-icon-browser"></i></a><br/><a href="https://            </h1>">https://            </h1></a><br/><a href="https://    <span class="cf-footer-separator">&bull;</span>">https://    <span class="cf-footer-separator">&bull;</span></a><br/></td>    </tr>
 </table>
