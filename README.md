@@ -7,7 +7,7 @@
                 <td>自由浏览</td>
         
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://    <i class="cf-icon-status cf-icon-error"></i>"
         target="lantern-mirror">免翻墙网页版</a></td> -->
     </tr>
     
@@ -16,5 +16,5 @@
         src="../../raw/master/x/fb.qr.png" /></a></td>
 
         
-        <td><a href="https://">https://</a><br/><a href="https://    <div id="cf-error-details" class="cf-error-details-wrapper">">https://    <div id="cf-error-details" class="cf-error-details-wrapper"></a><br/><a href="https://                </div>">https://                </div></a><br/><a href="https://<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->">https://<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]--></a><br/><a href="https://  <span class="cf-status-label" data-translate="server_status_label">Error</span>">https://  <span class="cf-status-label" data-translate="server_status_label">Error</span></a><br/></td>    </tr>
+        <td><a href="https://    <i class="cf-icon-status cf-icon-error"></i>">https://    <i class="cf-icon-status cf-icon-error"></i></a><br/><a href="https://">https://</a><br/><a href="https://<!DOCTYPE html>">https://<!DOCTYPE html></a><br/><a href="https://    ">https://    </a><br/><a href="https://<script type="text/javascript" src="/cdn-cgi/scripts/cf.common.js"></script>">https://<script type="text/javascript" src="/cdn-cgi/scripts/cf.common.js"></script></a><br/></td>    </tr>
 </table>
