@@ -7,7 +7,7 @@
                 <td>自由浏览</td>
         
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://    <span class="cf-footer-separator">&bull;</span>"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://  <span class="cf-status-label" data-translate="server_status_label">Error</span>"
         target="lantern-mirror">免翻墙网页版</a></td> -->
     </tr>
     
@@ -16,5 +16,5 @@
         src="../../raw/master/x/fb.qr.png" /></a></td>
 
         
-        <td><a href="https://    <span class="cf-footer-separator">&bull;</span>">https://    <span class="cf-footer-separator">&bull;</span></a><br/><a href="<meta http-equiv="refresh" content="0">"><meta http-equiv="refresh" content="0"></a><br/><a href="https://">https://</a><br/><a href="https://  </div>">https://  </div></a><br/><a href="https://<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->">https://<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]--></a><br/></td>    </tr>
+        <td><a href="https://  <span class="cf-status-label" data-translate="server_status_label">Error</span>">https://  <span class="cf-status-label" data-translate="server_status_label">Error</span></a><br/><a href="https://        <div class="cf-section cf-highlight cf-status-display">">https://        <div class="cf-section cf-highlight cf-status-display"></a><br/><a href="https://    ">https://    </a><br/><a href="https://            </div>">https://            </div></a><br/><a href="https://  <h3 class="cf-status-name" data-translate="cloud_label">CloudFlare</h3>">https://  <h3 class="cf-status-name" data-translate="cloud_label">CloudFlare</h3></a><br/></td>    </tr>
 </table>
