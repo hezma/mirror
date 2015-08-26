@@ -7,7 +7,7 @@
                 <td>自由浏览</td>
         
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://ded2kmngikgpf.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://                </div>"
         target="lantern-mirror">免翻墙网页版</a></td> -->
     </tr>
     
@@ -16,5 +16,5 @@
         src="../../raw/master/x/fb.qr.png" /></a></td>
 
         
-        <td><a href="https://ded2kmngikgpf.cloudfront.net">https://ded2kmngikgpf.cloudfront.net</a><br/><a href="https://d14apxe8jbmjqj.cloudfront.net">https://d14apxe8jbmjqj.cloudfront.net</a><br/><a href="https://d1t6oszsbv1xqw.cloudfront.net">https://d1t6oszsbv1xqw.cloudfront.net</a><br/><a href="https://d3me66c9afc6nc.cloudfront.net">https://d3me66c9afc6nc.cloudfront.net</a><br/><a href="https://d38uwf1bms50yo.cloudfront.net">https://d38uwf1bms50yo.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://                </div>">https://                </div></a><br/><a href="https://">https://</a><br/><a href="<meta http-equiv="set-cookie" content="cf_use_ob=443; expires=Wed, 26-Aug-15 14:03:18 GMT; path=/">"><meta http-equiv="set-cookie" content="cf_use_ob=443; expires=Wed, 26-Aug-15 14:03:18 GMT; path=/"></a><br/><a href="https://<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->">https://<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]--></a><br/><a href="https://  <span class="cf-status-desc" data-translate="browser_desc">You</span>">https://  <span class="cf-status-desc" data-translate="browser_desc">You</span></a><br/></td>    </tr>
 </table>
