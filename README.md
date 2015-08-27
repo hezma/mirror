@@ -16,5 +16,5 @@
         src="../../raw/master/x/fb.qr.png" /></a></td>
 
         
-        <td><a href="https://d59fklttdm2cm.cloudfront.net">https://d59fklttdm2cm.cloudfront.net</a><br/><a href="https://d1r9l64bhzl7jh.cloudfront.net">https://d1r9l64bhzl7jh.cloudfront.net</a><br/><a href="https://d2tb8yhg1hurhb.cloudfront.net">https://d2tb8yhg1hurhb.cloudfront.net</a><br/><a href="https://d2i7f2rap9z606.cloudfront.net">https://d2i7f2rap9z606.cloudfront.net</a><br/><a href="https://d2ij34aov1hhmw.cloudfront.net">https://d2ij34aov1hhmw.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d59fklttdm2cm.cloudfront.net">https://d59fklttdm2cm.cloudfront.net</a><br/><a href="https://d2i7f2rap9z606.cloudfront.net">https://d2i7f2rap9z606.cloudfront.net</a><br/><a href="https://d1r9l64bhzl7jh.cloudfront.net">https://d1r9l64bhzl7jh.cloudfront.net</a><br/><a href="https://d2tb8yhg1hurhb.cloudfront.net">https://d2tb8yhg1hurhb.cloudfront.net</a><br/><a href="https://d2ij34aov1hhmw.cloudfront.net">https://d2ij34aov1hhmw.cloudfront.net</a><br/></td>    </tr>
 </table>
