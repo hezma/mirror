@@ -16,5 +16,5 @@
         src="../../raw/master/x/fb.qr.png" /></a></td>
 
         
-        <td><a href="https://d3ljfxmotkkxnj.cloudfront.net">https://d3ljfxmotkkxnj.cloudfront.net</a><br/><a href="https://d3aslszh8h7s5f.cloudfront.net">https://d3aslszh8h7s5f.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3ljfxmotkkxnj.cloudfront.net">https://d3ljfxmotkkxnj.cloudfront.net</a><br/></td>    </tr>
 </table>
