@@ -7,7 +7,7 @@
                 <td>自由浏览</td>
         
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d134u3vs6gsftq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d13lwncl555xc4.cloudfront.net"
         target="lantern-mirror">免翻墙网页版</a></td> -->
     </tr>
     
@@ -16,5 +16,5 @@
         src="../../raw/master/x/fb.qr.png" /></a></td>
 
         
-        <td><a href="https://d134u3vs6gsftq.cloudfront.net">https://d134u3vs6gsftq.cloudfront.net</a><br/><a href="https://d57f09y161i06.cloudfront.net">https://d57f09y161i06.cloudfront.net</a><br/><a href="https://d35559fkg68bee.cloudfront.net">https://d35559fkg68bee.cloudfront.net</a><br/><a href="https://dxdrhzqa06kbf.cloudfront.net">https://dxdrhzqa06kbf.cloudfront.net</a><br/><a href="https://d34ln5nm2qbna4.cloudfront.net">https://d34ln5nm2qbna4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d13lwncl555xc4.cloudfront.net">https://d13lwncl555xc4.cloudfront.net</a><br/><a href="https://d2zkl29nrby0da.cloudfront.net">https://d2zkl29nrby0da.cloudfront.net</a><br/><a href="https://d2rhop7ub8r9sp.cloudfront.net">https://d2rhop7ub8r9sp.cloudfront.net</a><br/><a href="https://d3ivu568mhtywi.cloudfront.net">https://d3ivu568mhtywi.cloudfront.net</a><br/><a href="https://d3o15yemhmg9gv.cloudfront.net">https://d3o15yemhmg9gv.cloudfront.net</a><br/></td>    </tr>
 </table>
