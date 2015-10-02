@@ -7,7 +7,7 @@
                 <td>自由浏览</td>
         
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://<head><title>400 The plain HTTP request was sent to HTTPS port</title></head>"
         target="lantern-mirror">免翻墙网页版</a></td> -->
     </tr>
     
@@ -16,5 +16,5 @@
         src="../../raw/master/x/fb.qr.png" /></a></td>
 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2q8jrwsmbi5m3.cloudfront.net">https://d2q8jrwsmbi5m3.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3ooxou3mlsbvw.cloudfront.net">https://d3ooxou3mlsbvw.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://<head><title>400 The plain HTTP request was sent to HTTPS port</title></head>">https://<head><title>400 The plain HTTP request was sent to HTTPS port</title></head></a><br/><a href="https://<html>">https://<html></a><br/><a href="https://<center>The plain HTTP request was sent to HTTPS port</center>">https://<center>The plain HTTP request was sent to HTTPS port</center></a><br/><a href="https://<center><h1>400 Bad Request</h1></center>">https://<center><h1>400 Bad Request</h1></center></a><br/><a href="https://</body>">https://</body></a><br/></td>    </tr>
 </table>
