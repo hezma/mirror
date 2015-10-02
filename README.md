@@ -16,5 +16,5 @@
         src="../../raw/master/x/fb.qr.png" /></a></td>
 
         
-        <td><a href="https://<body bgcolor="white">">https://<body bgcolor="white"></a><br/><a href="https://</body>">https://</body></a><br/><a href="https://<center>The plain HTTP request was sent to HTTPS port</center>">https://<center>The plain HTTP request was sent to HTTPS port</center></a><br/><a href="https://<hr><center>nginx/1.4.6 (Ubuntu)</center>">https://<hr><center>nginx/1.4.6 (Ubuntu)</center></a><br/><a href="https://<html>">https://<html></a><br/></td>    </tr>
+        <td><a href="https://<body bgcolor="white">">https://<body bgcolor="white"></a><br/><a href="https://<center><h1>400 Bad Request</h1></center>">https://<center><h1>400 Bad Request</h1></center></a><br/><a href="https://<center>The plain HTTP request was sent to HTTPS port</center>">https://<center>The plain HTTP request was sent to HTTPS port</center></a><br/><a href="https://<hr><center>nginx/1.4.6 (Ubuntu)</center>">https://<hr><center>nginx/1.4.6 (Ubuntu)</center></a><br/><a href="https://<html>">https://<html></a><br/></td>    </tr>
 </table>
